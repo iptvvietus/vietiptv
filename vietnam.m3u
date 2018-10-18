@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1,USA TV
+#EXTINF:-1,USA: WWE_HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/3128.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/2731.ts
+#EXTINF:-1,USA: ESPN HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/2732.ts
+#EXTINF:-1,USA: ESPN 2
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/2735.ts
+#EXTINF:-1,USA: AMC HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/2733.ts
+#EXTINF:-1,USA: HBO HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/3130.ts
+#EXTINF:-1,USA: CBSN HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/3169.ts
+#EXTINF:-1,USA: GOLF HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/3168.ts
+#EXTINF:-1,USA: TBS HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/3167.ts
+#EXTINF:-1,USA: Discovery
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4180.ts
+#EXTINF:-1,USA: Discovery Science
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4178.ts
+#EXTINF:-1,USA: National Geographic
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4179.ts
+#EXTINF:-1,USA: Starz Comedy
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4208.ts
+#EXTINF:-1,USA: TNT HD
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4206.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4359.ts
+#EXTINF:-1,USA: OXYGEN
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4276.ts
+#EXTINF:-1,USA: PAC-12 Arizona
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4357.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4358.ts
+#EXTINF:-1,USA: PAC-12 Washington
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4356.ts
+#EXTINF:-1,USA: SYFY
+http://5.189.187.55:8000/live/NZTM0ewpfJ/1s1qPA5Vmy/4385.ts
+#EXTINF:-1,US_ABC
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2257.ts
+#EXTINF:-1,US_CBS
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2852.ts
+#EXTINF:-1,US_TSN 1
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2248.ts
+#EXTINF:-1,US_TSN 2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2249.ts
+#EXTINF:-1,US_TSN 3
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2250.ts
+#EXTINF:-1,US_TSN 4
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2251.ts
+#EXTINF:-1,US_TSN 5
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2252.ts
+#EXTINF:-1,US_Network
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2851.ts
+#EXTINF:-1,US_NFL_LIVE
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2850.ts
+#EXTINF:-1,US_WWE_Network
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2848.ts
+#EXTINF:-1,US_Fox Sports  1
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2254.ts
+#EXTINF:-1,US_Fox Sports  2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2255.ts
+#EXTINF:-1,US_FIGHT_SPORT
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2853.ts
+#EXTINF:-1,US_NBC_SPORT
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2854.ts
+#EXTINF:-1,US_NBA
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2253.ts
+#EXTINF:-1,US_ESPN
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2256.ts
+#EXTINF:-1,US_HBO
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2855.ts
+#EXTINF:-1,US_Nasa
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/2849.ts
+#EXTINF:-1,US: Free From
+http://ipsatpro.biz:8080/live/noemie/noemie1/1448.ts
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1441.ts
+#EXTINF:-1,US: FX HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1478.ts
+#EXTINF:-1,US: FXX
+http://ipsatpro.biz:8080/live/noemie/noemie1/1490.ts
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1433.ts
+#EXTINF:-1,US: HBO East
+http://ipsatpro.biz:8080/live/noemie/noemie1/1518.ts
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.biz:8080/live/noemie/noemie1/1536.ts
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.biz:8080/live/noemie/noemie1/1517.ts
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.biz:8080/live/noemie/noemie1/1438.ts
+#EXTINF:-1,US: Starz East
+http://ipsatpro.biz:8080/live/noemie/noemie1/1450.ts
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.biz:8080/live/noemie/noemie1/1537.ts
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1524.ts
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1527.ts
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1480.ts
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.biz:8080/live/noemie/noemie1/1539.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.biz:8080/live/noemie/noemie1/1512.ts
+#EXTINF:-1,US: Hallmark Channel
+http://ipsatpro.biz:8080/live/noemie/noemie1/1528.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1540.ts
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1457.ts
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1458.ts
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1532.ts
+#EXTINF:-1,US: TMN Action
+http://ipsatpro.biz:8080/live/noemie/noemie1/1471.ts
+#EXTINF:-1,US: Discovery World
+http://ipsatpro.biz:8080/live/noemie/noemie1/1499.ts
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1534.ts
+#EXTINF:-1,US: USA
+http://ipsatpro.biz:8080/live/noemie/noemie1/1519.ts
+#EXTINF:-1,US: CBS
+http://ipsatpro.biz:8080/live/noemie/noemie1/1510.ts
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.biz:8080/live/noemie/noemie1/1464.ts
+#EXTINF:-1,US: History
+http://ipsatpro.biz:8080/live/noemie/noemie1/1523.ts
+#EXTINF:-1,US: NatGeo Wild
+http://ipsatpro.biz:8080/live/noemie/noemie1/1484.ts
+#EXTINF:-1,US: Animal Planet+1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1467.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1529.ts
+#EXTINF:-1,US: Crime and Investigation
+http://ipsatpro.biz:8080/live/noemie/noemie1/1511.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1487.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1488.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1489.ts
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1495.ts
+#EXTINF:-1,US: SEC Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1463.ts
+#EXTINF:-1,US: LIFE TIME
+http://ipsatpro.biz:8080/live/noemie/noemie1/1432.ts
+#EXTINF:-1,US: USA Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1498.ts
+#EXTINF:-1,US: More Max HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1460.ts
+#EXTINF:-1,US: TBS HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1506.ts
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.biz:8080/live/noemie/noemie1/1541.ts
+#EXTINF:-1,US: CBC Vancover
+http://ipsatpro.biz:8080/live/noemie/noemie1/1494.ts
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1507.ts
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1500.ts
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1442.ts
+#EXTINF:-1,US: truTV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1477.ts
+#EXTINF:-1,US: E TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1531.ts
+#EXTINF:-1,US: TV ONE HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1481.ts
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1485.ts
+#EXTINF:-1,US: CHCH
+http://ipsatpro.biz:8080/live/noemie/noemie1/1482.ts
+#EXTINF:-1,US: RDS2
+http://ipsatpro.biz:8080/live/noemie/noemie1/1505.ts
+#EXTINF:-1,US: CBSN
+http://ipsatpro.biz:8080/live/noemie/noemie1/1521.ts
+#EXTINF:-1,US: CBSN HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1462.ts
+#EXTINF:-1,US: ABC 7
+http://ipsatpro.biz:8080/live/noemie/noemie1/1491.ts
+#EXTINF:-1,US: NBA TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1520.ts
+#EXTINF:-1,US: OWN
+http://ipsatpro.biz:8080/live/noemie/noemie1/1493.ts
+#EXTINF:-1,US: News Channel 21
+http://ipsatpro.biz:8080/live/noemie/noemie1/1456.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1466.ts
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.biz:8080/live/noemie/noemie1/1514.ts
+#EXTINF:-1,US: CNN Eng
+http://ipsatpro.biz:8080/live/noemie/noemie1/1443.ts
+#EXTINF:-1,US: WGN 9 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1515.ts
+#EXTINF:-1,US: Fox Deportes HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1513.ts
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.biz:8080/live/noemie/noemie1/1501.ts
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.biz:8080/live/noemie/noemie1/1447.ts
+#EXTINF:-1,US: Beto TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1535.ts
+#EXTINF:-1,US: Free Rom
+http://ipsatpro.biz:8080/live/noemie/noemie1/1465.ts
+#EXTINF:-1,US: TSC
+http://ipsatpro.biz:8080/live/noemie/noemie1/1449.ts
+#EXTINF:-1,US: ABC
+http://ipsatpro.biz:8080/live/noemie/noemie1/1504.ts
+#EXTINF:-1,Viet Nam Hai Ngoai
+#EXTINF:-1,onfilm
+https://saigonrtmp.tulix.tv/vchannel4/vchannel4/playlist.m3u8
+#EXTINF:-1,Vietoday TV
+https://saigonrtmp.tulix.tv/vchannel1/vchannel1/playlist.m3u8"
+#EXTINF:-1,saigontv
+https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
+#EXTINF:-1,VSLTV
+https://saigonrtmp.tulix.tv/vchannel3/vchannel3/playlist.m3u8
+#EXTINF:-1,On biz
+https://saigonrtmp.tulix.tv/vchannel5/vchannel5/playlist.m3u8
+#EXTINF:-1,Echannel
+https://saigonrtmp.tulix.tv/vchannel6/vchannel6/playlist.m3u8
+#EXTINF:-1,SCTV HD
+https://saigonrtmp.tulix.tv/vchannel7/vchannel7/playlist.m3u8
+#EXTINF:-1,SCTV Phim
+https://saigonrtmp.tulix.tv/vchannel8/vchannel8/playlist.m3u8
+#EXTINF:-1,SCTV San Khau
+https://saigonrtmp.tulix.tv/vchannel9/vchannel9/playlist.m3u8
+#EXTINF:-1,Style Tv
+https://saigonrtmp.tulix.tv/vchannel10/vchannel10/playlist.m3u8
+#EXTINF:-1,VBS TELEVISION Channel 57.6
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
